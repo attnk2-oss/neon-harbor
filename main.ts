@@ -39,3 +39,5 @@ writeFileSync(
     game_path_max_bytes: 1000,
   }),
 );
+
+console.log('gta6-01 / NEON HARBOR — Port Kessel, seed 7, four staged screenshots, 14 modules.');
