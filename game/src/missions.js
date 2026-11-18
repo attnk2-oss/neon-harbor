@@ -253,4 +253,4 @@ export class MissionController {
   }
 }
 
-export const TOTAL_MISSIONS = MISSIONS.length || MISSIONS_COUNT;
+export const TOTAL_MISSIONS = MISSIONS.length;
